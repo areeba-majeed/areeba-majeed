@@ -181,7 +181,12 @@
 </div>
 
 <hr width="100%" color="#2ec5ff" size="2">
+<h2 align="center">🏆 ACHIEVEMENTS</h2>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=areeba-majeed&theme=tokyonight&no-frame=true&row=2&column=4" />
+</p>
+<hr width="100%" color="#2ec5ff" size="2">
 <h2 align="center">📫 Let’s Connect</h2>
 
 <div align="center">
