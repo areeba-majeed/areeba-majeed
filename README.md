@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/GITHUB-090D16?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=090D16&color=090D16" height="38" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="http://areebamajeed.me/">
+<a href="https://areebamajeed-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/PORTFOLIO-090D16?style=for-the-badge&logo=googlechrome&logoColor=00E5FF&labelColor=090D16&color=090D16" height="38" alt="Portfolio"/>
 </a>
 &nbsp;
@@ -37,7 +37,7 @@
 - 💻 **Software Engineer & Full Stack Developer** crafting scalable web applications and high-performance digital products.
 - 📍 **Location** - Pakistan
 - 🎓 **Education** - BS Computer Science
-- 🌐 **Portfolio** - [areebamajeed.me](http://areebamajeed.me/)
+- 🌐 **Portfolio** - [areebamajeed-portfolio.vercel.app](https://areebamajeed-portfolio.vercel.app/)
 - ⚡ **Specialty** - Software Development · MERN · Full Stack · Software Engineering
 - 🚀 **Mission** - Build high-quality software that solves real-world problems
 
@@ -222,7 +222,7 @@
   <img src="https://img.shields.io/badge/GITHUB-090D16?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=090D16&color=090D16" height="42" alt="GitHub"/>
 </a>
 &nbsp;&nbsp;
-<a href="http://areebamajeed.me/">
+<a href="https://areebamajeed-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/PORTFOLIO-090D16?style=for-the-badge&logo=googlechrome&logoColor=00E5FF&labelColor=090D16&color=090D16" height="42" alt="Portfolio"/>
 </a>
 &nbsp;&nbsp;
