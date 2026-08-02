@@ -174,9 +174,7 @@
 
 <div align="center">
 
-<img height="300" src="https://github-readme-stats.vercel.app/api?username=areeba-majeed&show_icons=true&theme=tokyonight&hide_border=true&title_color=4FC3FF&icon_color=4FC3FF&text_color=C9D8E8&bg_color=0D1117" />
-<br><br>
-<img height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=areeba-majeed&theme=tokyonight&hide_border=true&ring=4FC3FF&fire=4FC3FF&currStreakLabel=4FC3FF&background=0D1117" />
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=areeba-majeed&theme=tokyonight&hide_border=true&ring=4FC3FF&fire=4FC3FF&currStreakLabel=4FC3FF&background=0D1117" />
 
 </div>
 
