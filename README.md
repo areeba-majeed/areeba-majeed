@@ -53,35 +53,35 @@
 
 ### **Languages**
 
-<img src="https://img.shields.io/badge/JavaScript-142B4D?style=flat-square&logo=javascript&logoColor=F7DF1E" height="42"/> &nbsp;
-<img src="https://img.shields.io/badge/TypeScript-142B4D?style=flat-square&logo=typescript&logoColor=3178C6" height="42"/> &nbsp;
-<img src="https://img.shields.io/badge/HTML5-142B4D?style=flat-square&logo=html5&logoColor=E34F26" height="42"/> &nbsp;
-<img src="https://img.shields.io/badge/CSS3-142B4D?style=flat-square&logo=css3&logoColor=1572B6" height="42"/>
+<img src="https://img.shields.io/badge/JavaScript-142B4D?style=flat-square&logo=javascript&logoColor=F7DF1E" height="55"/> &nbsp;
+<img src="https://img.shields.io/badge/TypeScript-142B4D?style=flat-square&logo=typescript&logoColor=3178C6" height="55"/> &nbsp;
+<img src="https://img.shields.io/badge/HTML5-142B4D?style=flat-square&logo=html5&logoColor=E34F26" height="55"/> &nbsp;
+<img src="https://img.shields.io/badge/CSS3-142B4D?style=flat-square&logo=css3&logoColor=1572B6" height="55"/>
 
 <br><br>
 
 ### **Frontend**
 
-<img src="https://img.shields.io/badge/React-142B4D?style=flat-square&logo=react&logoColor=61DAFB" height="42"/> &nbsp;
-<img src="https://img.shields.io/badge/Next.js-142B4D?style=flat-square&logo=nextdotjs&logoColor=4FC3FF" height="42"/> &nbsp;
-<img src="https://img.shields.io/badge/Tailwind_CSS-142B4D?style=flat-square&logo=tailwindcss&logoColor=38BDF8" height="42"/>
+<img src="https://img.shields.io/badge/React-142B4D?style=flat-square&logo=react&logoColor=61DAFB" height="55"/> &nbsp;
+<img src="https://img.shields.io/badge/Next.js-142B4D?style=flat-square&logo=nextdotjs&logoColor=4FC3FF" height="55"/> &nbsp;
+<img src="https://img.shields.io/badge/Tailwind_CSS-142B4D?style=flat-square&logo=tailwindcss&logoColor=38BDF8" height="55"/>
 
 <br><br>
 
 ### **Backend & Database**
 
-<img src="https://img.shields.io/badge/Node.js-142B4D?style=flat-square&logo=nodedotjs&logoColor=339933" height="42"/> &nbsp;
-<img src="https://img.shields.io/badge/Express-142B4D?style=flat-square&logo=express&logoColor=4FC3FF" height="42"/> &nbsp;
-<img src="https://img.shields.io/badge/MongoDB-142B4D?style=flat-square&logo=mongodb&logoColor=47A248" height="42"/>
+<img src="https://img.shields.io/badge/Node.js-142B4D?style=flat-square&logo=nodedotjs&logoColor=339933" height="55"/> &nbsp;
+<img src="https://img.shields.io/badge/Express-142B4D?style=flat-square&logo=express&logoColor=4FC3FF" height="55"/> &nbsp;
+<img src="https://img.shields.io/badge/MongoDB-142B4D?style=flat-square&logo=mongodb&logoColor=47A248" height="55"/>
 
 <br><br>
 
 ### **Tools**
 
-<img src="https://img.shields.io/badge/Git-142B4D?style=flat-square&logo=git&logoColor=F05032" height="42"/> &nbsp;
-<img src="https://img.shields.io/badge/GitHub-142B4D?style=flat-square&logo=github&logoColor=4FC3FF" height="42"/> &nbsp;
-<img src="https://img.shields.io/badge/VS_Code-142B4D?style=flat-square&logo=visualstudiocode&logoColor=007ACC" height="42"/> &nbsp;
-<img src="https://img.shields.io/badge/Postman-142B4D?style=flat-square&logo=postman&logoColor=FF6C37" height="42"/>
+<img src="https://img.shields.io/badge/Git-142B4D?style=flat-square&logo=git&logoColor=F05032" height="55"/> &nbsp;
+<img src="https://img.shields.io/badge/GitHub-142B4D?style=flat-square&logo=github&logoColor=4FC3FF" height="55"/> &nbsp;
+<img src="https://img.shields.io/badge/VS_Code-142B4D?style=flat-square&logo=visualstudiocode&logoColor=007ACC" height="55"/> &nbsp;
+<img src="https://img.shields.io/badge/Postman-142B4D?style=flat-square&logo=postman&logoColor=FF6C37" height="55"/>
 
 </div>
 
@@ -174,7 +174,9 @@
 
 <div align="center">
 
-<img height="225" src="https://github-readme-streak-stats.herokuapp.com/?user=areeba-majeed&hide_border=true&background=00000000&ring=4FC3FF&fire=4FC3FF&currStreakLabel=4FC3FF&sideLabels=C9D8E8&currStreakNum=C9D8E8&sideNums=C9D8E8&dates=6E8CA8"/>
+<img height="300" src="https://github-readme-stats.vercel.app/api?username=areeba-majeed&show_icons=true&theme=tokyonight&hide_border=true&title_color=4FC3FF&icon_color=4FC3FF&text_color=C9D8E8&bg_color=0D1117" />
+<br><br>
+<img height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=areeba-majeed&theme=tokyonight&hide_border=true&ring=4FC3FF&fire=4FC3FF&currStreakLabel=4FC3FF&background=0D1117" />
 
 </div>
 
