@@ -29,47 +29,16 @@
 
 <hr width="100%" color="#2ec5ff" size="2">
 
-<table width="100%" border="0" cellpadding="18" cellspacing="0">
-  <tr>
-    <td align="left" valign="top" bgcolor="#0b1220" style="border:1px solid #2ec5ff; border-radius: 10px;">
+### Areeba Majeed
 
-      <p><strong>[ Areeba Majeed ]</strong></p>
+- 🧠 AI Engineer & Full Stack Developer crafting intelligent systems that bridge the gap between raw data and real-world impact.
+- 📍 Location → Pakistan
+- 🎓 Education → BS Computer Science
+- 🌐 Portfolio → [areebamajeed.me](https://areebamajeed.me)
+- ⚡ Specialty → MERN · Machine Learning · Deep Learning
+- 🚀 Mission → Ship AI that creates real value
 
-      <p>
-        <img src="https://emojicdn.elk.sh/🧠" width="18" />
-        <strong>AI Engineer & Full Stack Developer</strong> crafting intelligent systems that bridge the gap between raw data and real-world impact.
-      </p>
-
-      <p>
-        <img src="https://emojicdn.elk.sh/📍" width="18" />
-        <strong>Location</strong> → Pakistan
-      </p>
-
-      <p>
-        <img src="https://emojicdn.elk.sh/🎓" width="18" />
-        <strong>Education</strong> → BS Computer Science
-      </p>
-
-      <p>
-        <img src="https://emojicdn.elk.sh/🌐" width="18" />
-        <strong>Portfolio</strong> → <a href="https://areebamajeed.me">areebamajeed.me</a>
-      </p>
-
-      <p>
-        <img src="https://emojicdn.elk.sh/⚡" width="18" />
-        <strong>Specialty</strong> → MERN · Machine Learning · Deep Learning
-      </p>
-
-      <p>
-        <img src="https://emojicdn.elk.sh/🚀" width="18" />
-        <strong>Mission</strong> → Ship AI that creates real value
-      </p>
-
-      <p><em>"I don't just build models — I engineer systems that think, adapt, and scale."</em></p>
-
-    </td>
-  </tr>
-</table>
+> "I don't just build models — I engineer systems that think, adapt, and scale."
 
 <hr width="100%" color="#2ec5ff" size="2">
 
@@ -121,17 +90,84 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/areeba-majeed/areeba-majeed/output/github-contribution-grid-snake-dark.svg" />
 </p>
-<h2 align="center">💼 Featured Projects</h2>
+## 💼 Featured Projects
 
-<ul>
-  <li><strong>HrConnect</strong> — Full-stack MERN job portal for recruiters and applicants.</li>
-  <li><strong>FormFlow</strong> — Next.js form builder with dynamic forms and file upload support.</li>
-  <li><strong>Football Live Scoreboard</strong> — Real-time football results and standings dashboard.</li>
-</ul>
+<br>
 
-<p align="center">
-  <a href="https://github.com/areeba-majeed?tab=repositories">View all repositories →</a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>💼 HrConnect</h3>
+
+<p><i>Full-stack MERN job portal — recruiters post openings, candidates search & apply, all managed from one dashboard.</i></p>
+
+<img src="https://img.shields.io/badge/React-142B4D?style=flat-square&logo=react&logoColor=61DAFB" height="24"/>
+<img src="https://img.shields.io/badge/Node.js-142B4D?style=flat-square&logo=nodedotjs&logoColor=339933" height="24"/>
+<img src="https://img.shields.io/badge/Express-142B4D?style=flat-square&logo=express&logoColor=4FC3FF" height="24"/>
+<img src="https://img.shields.io/badge/MongoDB-142B4D?style=flat-square&logo=mongodb&logoColor=47A248" height="24"/>
+
+<br><br>
+
+<a href="https://github.com/mirza1272/Multi-Branch-Recruitment-and-Applicant-Tracking-System.git">
+<img src="https://img.shields.io/badge/Source_Code-4FC3FF?style=flat-square&logo=github&logoColor=0B1120" height="26"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+<h3>📝 FormFlow</h3>
+
+<p><i>Google Forms–style builder in Next.js — create, publish & manage custom forms with file uploads and response analytics.</i></p>
+
+<img src="https://img.shields.io/badge/Next.js-142B4D?style=flat-square&logo=nextdotjs&logoColor=4FC3FF" height="24"/>
+<img src="https://img.shields.io/badge/Express-142B4D?style=flat-square&logo=express&logoColor=4FC3FF" height="24"/>
+<img src="https://img.shields.io/badge/MongoDB-142B4D?style=flat-square&logo=mongodb&logoColor=47A248" height="24"/>
+<img src="https://img.shields.io/badge/Cloudinary-142B4D?style=flat-square&logo=cloudinary&logoColor=3448C5" height="24"/>
+
+<br><br>
+
+<a href="https://github.com/areeba-majeed/Form-Flow.git">
+<img src="https://img.shields.io/badge/Source_Code-4FC3FF?style=flat-square&logo=github&logoColor=0B1120" height="26"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+<h3>⚽ Football Live Scoreboard</h3>
+
+<p><i>Real-time scoreboard streaming live fixtures, scores & standings via the API-Football service.</i></p>
+
+<img src="https://img.shields.io/badge/React-142B4D?style=flat-square&logo=react&logoColor=61DAFB" height="24"/>
+<img src="https://img.shields.io/badge/Express-142B4D?style=flat-square&logo=express&logoColor=4FC3FF" height="24"/>
+<img src="https://img.shields.io/badge/API--Football-142B4D?style=flat-square&logo=googlesheets&logoColor=4FC3FF" height="24"/>
+
+<br><br>
+
+<a href="https://github.com/areeba-majeed/Football-Live-Scoreboard.git">
+<img src="https://img.shields.io/badge/Source_Code-4FC3FF?style=flat-square&logo=github&logoColor=0B1120" height="26"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+<h3>🌟 More Projects</h3>
+
+<p><i>Additional MERN and Next.js builds, experiments, and coursework — all on my GitHub profile.</i></p>
+
+<img src="https://img.shields.io/badge/MERN-142B4D?style=flat-square&logo=mongodb&logoColor=47A248" height="24"/>
+<img src="https://img.shields.io/badge/Next.js-142B4D?style=flat-square&logo=nextdotjs&logoColor=4FC3FF" height="24"/>
+
+<br><br>
+
+<a href="https://github.com/areeba-majeed?tab=repositories">
+<img src="https://img.shields.io/badge/View_All_Repos-4FC3FF?style=flat-square&logo=github&logoColor=0B1120" height="26"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <hr width="100%" color="#2ec5ff" size="2">
 
