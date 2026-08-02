@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/GITHUB-090D16?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=090D16&color=090D16" height="38" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="https://areebamajeed.me">
+<a href="http://areebamajeed.me/">
   <img src="https://img.shields.io/badge/PORTFOLIO-090D16?style=for-the-badge&logo=googlechrome&logoColor=00E5FF&labelColor=090D16&color=090D16" height="38" alt="Portfolio"/>
 </a>
 &nbsp;
@@ -37,7 +37,7 @@
 - 🧠 **AI Engineer & Full Stack Developer** crafting intelligent systems that bridge the gap between raw data and real-world impact.
 - 📍 **Location** - Pakistan
 - 🎓 **Education** - BS Computer Science
-- 🌐 **Portfolio** - [areebamajeed.me](https://areebamajeed.me)
+- 🌐 **Portfolio** - [areebamajeed.me](http://areebamajeed.me/)
 - ⚡ **Specialty** - MERN · Machine Learning · Deep Learning
 - 🚀 **Mission** - Ship AI that creates real value
 
@@ -222,7 +222,7 @@
   <img src="https://img.shields.io/badge/GITHUB-090D16?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=090D16&color=090D16" height="42" alt="GitHub"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://areebamajeed.me">
+<a href="http://areebamajeed.me/">
   <img src="https://img.shields.io/badge/PORTFOLIO-090D16?style=for-the-badge&logo=googlechrome&logoColor=00E5FF&labelColor=090D16&color=090D16" height="42" alt="Portfolio"/>
 </a>
 &nbsp;&nbsp;
