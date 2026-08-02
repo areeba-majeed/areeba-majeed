@@ -34,14 +34,14 @@
 
 ### Areeba Majeed
 
-- 🧠 **AI Engineer & Full Stack Developer** crafting intelligent systems that bridge the gap between raw data and real-world impact.
+- 💻 **Software Engineer & Full Stack Developer** crafting scalable web applications and high-performance digital products.
 - 📍 **Location** - Pakistan
 - 🎓 **Education** - BS Computer Science
 - 🌐 **Portfolio** - [areebamajeed.me](http://areebamajeed.me/)
-- ⚡ **Specialty** - MERN · Machine Learning · Deep Learning
-- 🚀 **Mission** - Ship AI that creates real value
+- ⚡ **Specialty** - Software Development · MERN · Full Stack · Software Engineering
+- 🚀 **Mission** - Build high-quality software that solves real-world problems
 
-> "I don't just build models - I engineer systems that think, adapt, and scale."
+> "I engineer clean, scalable, and efficient software solutions."
 
 <hr width="100%" color="#2ec5ff" size="2">
 
