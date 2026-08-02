@@ -1,41 +1,63 @@
-<h1 align="center">Hi 👋, I'm Areeba Majeed</h1>
-<h3 align="center">MERN Stack Developer | Computer Science Student</h3>
+╔════════════════════════════════════════════════════╗
+        Custom Banner (Blue/Black Theme)
+             Areeba Majeed
+   MERN Stack Developer • Next.js Developer
+╚════════════════════════════════════════════════════╝
 
----
+✨ Animated Typing Text
 
-## 👩‍💻 About Me
+🔗 LinkedIn • GitHub • Portfolio • Email
 
-- 🎓 BS Computer Science @ FAST-NUCES
-- 💻 MERN Stack Developer
-- 🌱 Learning Next.js & AI
-- 📫 Email: your@email.com
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
----
+          ✨ WHO AM I ✨
 
-## 🚀 Tech Stack
+• BS Computer Science @ FAST-NUCES
+• MERN Stack Developer
+• Currently learning Next.js & AI
+• Open to Internship & Freelance Opportunities
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,tailwind,js,ts,git,github,vscode" />
-</p>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
----
+        🛠 TECH ARSENAL
 
-## 📊 GitHub Stats
+Frontend
+React • Next.js • Tailwind CSS • JavaScript • TypeScript
 
-<img src="https://github-readme-stats.vercel.app/api?username=areeba0566&show_icons=true&theme=tokyonight" />
+Backend
+Node.js • Express.js • REST APIs
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=areeba0566&theme=tokyonight" />
-<!--
-**areeba-majeed/areeba-majeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Database
+MongoDB • Mongoose
 
-Here are some ideas to get you started:
+Tools
+Git • GitHub • VS Code • Postman • Cloudinary
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 FEATURED PROJECTS
+
+📌 HrConnect
+Job Portal for Recruiters & Job Seekers
+
+📌 FormFlow
+Dynamic Form Builder with File Uploads
+
+📌 Football Live Scoreboard
+Real-time Football Scores using External API
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 GitHub Stats
+
+🔥 Streak Stats
+
+📈 Contribution Graph
+
+🐍 Contribution Snake
+
+🏆 Achievements
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🤝 Let's Connect
