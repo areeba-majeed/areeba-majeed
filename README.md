@@ -116,7 +116,11 @@
 <br>
 
 <hr width="100%" color="#2ec5ff" size="2">
+<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/areeba-majeed/areeba-majeed/output/github-contribution-grid-snake-dark.svg" />
+</p>
 <h2 align="center">💼 Featured Projects</h2>
 
 <ul>
